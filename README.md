@@ -1,8 +1,8 @@
 # Circus Charlie
-WINAPI로 제작한 고전게임 서커스 찰리 모작이다. 매프레임마다 계산되어 그려지는 화면 전환을 보완하기 위한 더블 버퍼링 기술을 익히기 위해 제작하였다.
+(제작중) WINAPI로 제작한 고전게임 서커스 찰리 모작이다. 배경, 장애물 등의 리소스를 오브젝트 풀링으로 관리하여 성능을 높이고, 매프레임마다 계산되어 그려지는 화면 전환을 보완하기 위한 더블 버퍼링 기술을 익히기 위해 제작중이다.
 - WINAPI(C++), Visual Studio
 - 서커스 찰리 게임의 첫 번째 스테이지 모작
-- 플레이 영상 :: 
+- (미완성) 플레이 영상 :: https://youtu.be/cMjxg6r8H_s
 
 ## 조작법
 - **←, →**: 좌, 우 이동
@@ -10,4 +10,9 @@ WINAPI로 제작한 고전게임 서커스 찰리 모작이다. 매프레임마�
 - **Enter**: 선택
 
 ## 게임설명
-<img src="https://user-images.githubusercontent.com/66179481/236633721-8897b0f3-af47-4a8e-b252-2085ee40908a.PNG" width="401.7" height="493.3"/> <img src="https://user-images.githubusercontent.com/66179481/236633733-f9c45aa8-58fa-48aa-b2f0-2e99608b3c02.PNG" width="401.7" height="493.3"/> <img src="https://user-images.githubusercontent.com/66179481/236633742-adb0e5c2-8e5f-4db5-9e67-35290c9d8621.PNG" width="401.7" height="493.3"/>
+### 메뉴
+<img src="https://github.com/Bognoeym/Circus-Charlie/assets/66179481/7c1d7428-daa2-4e4d-9a68-05ec6f36a6d0"/>  
+글자 주변 별 연출 필요
+
+### 게임화면
+<img src="https://github.com/Bognoeym/Circus-Charlie/assets/66179481/8eaa5d0f-a61a-4a82-999e-87ee173b692f"/>  
