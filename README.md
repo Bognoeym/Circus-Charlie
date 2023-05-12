@@ -15,4 +15,3 @@
 글자 주변 별 연출 필요
 
 ### 게임화면
-<img src="https://github.com/Bognoeym/Circus-Charlie/assets/66179481/8eaa5d0f-a61a-4a82-999e-87ee173b692f"/>  
